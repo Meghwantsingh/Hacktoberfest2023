@@ -4,15 +4,7 @@
 ![Hacktoberfest 2021](.github/logo.png)
 
 
-## Contributors of `Hacktoberfest 2022`
-
-<div align="center">
-
-<a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
-</a>
-  
-  </div>
+## Contribut to the `Hacktoberfest 2022`
 
 ## This project is perfect for your first pull request
 
@@ -106,12 +98,4 @@ I will recommend you to make pull request to your own repo which is very very sa
 keep in mind that repo has hacktoberfest topic..
 ```
 
-## + Follow Me : } Quick Approval of Pull Request
-
-```py
-To get approval of the pull request much quicker and faster (`Follow Me`)🚀
-```
-
-<tr><td align="center"><a href="https://github.com/ossamamehmood"><kbd><img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Ossama Mehmood</b></sub></a><br /></td>
-
-</tr>
+## + Follow Me 
