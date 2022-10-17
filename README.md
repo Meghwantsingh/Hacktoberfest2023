@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/f47aef15a1c8f22b6fc5c7abf615a918f1322cd6/topics/hacktoberfest/hacktoberfest.png" width="30%">
+        <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/logo.PNG" width="1000%">
     </a>
 </p>
 
@@ -19,15 +19,17 @@
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+> Note : Add Code in Program Folder and Project in Project Folder
 
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 - Find the suitable issue from Issues Section
 - Request for work on that issue till don't work 
-- Fork-Work-Pull
+- Fork-Work-Pull and Also star the repo
 - Add your name to the `CONTRIBUTORS.md` file
 - Put issue number in pull request so that we can get it quickly
-
+- Follows us
+  <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/contri.JPG" width="1000%">
 > Note : Don't Contribute Until Assigned
 
 
@@ -69,3 +71,4 @@ git push origin branch-name
 ---
 
 ##
+<img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/hack.JPG" width="1000%">
