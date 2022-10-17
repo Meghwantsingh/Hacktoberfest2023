@@ -31,8 +31,11 @@ Here are 3 quick and painless ways to contribute to this project:
 - Follows us
   <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/contri.JPG" width="1000%">
 > Note : Don't Contribute Until Assigned
-
-
+<hr>
+## New Stuff
+<img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/new.JPG" width="1000%">
+<img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/new2.JPG" width="1000%">
+<hr>
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
