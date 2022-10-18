@@ -85,7 +85,7 @@ git push origin branch-name
 ## Watch this video if you are a beginner
 <p align="center">
     <a href="https://www.youtube.com/watch?v=pRow-Kc12rs">
-        <img src="https://i.imgur.com/7td0HiC.jpg" width="50%">
+        <img src="https://i.imgur.com/7td0HiC.jpg" width="1000%">
     </a>
   </p>
 
