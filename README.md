@@ -1,4 +1,4 @@
-
+>Note : Any one can contribute i am busy so contribute I will check later ( those who are doing projects )
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/logo.PNG" width="1000%">
