@@ -1,7 +1,7 @@
 >Note : Any one can contribute i am busy so contribute I will check later ( those who are doing projects )
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://hackthisfall.tech/_nuxt/img/hacktoberfest-logo-vertical.f043935.png" width="40%">
+        <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/logo.PNG" width="100%">
     </a>
 </p>
 
@@ -83,8 +83,11 @@ git push origin branch-name
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/hack.JPG" width="1000%">
 
 ## Watch this video if you are a beginner
-
-[![Video](https://i.ytimg.com/an_webp/pRow-Kc12rs/mqdefault_6s.webp?du=3000&sqp=CJ2Ru5oG&rs=AOn4CLAh45qNX0uYV-GGa1D-XiHcSQd5vw)](https://www.youtube.com/watch?v=pRow-Kc12rs)
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=pRow-Kc12rs">
+        <img src="https://i.imgur.com/7td0HiC.jpg" width="50%">
+    </a>
+  </p>
 
 - In the video you will learn to research which challenge suits your knowledge.
 - Good event and have fun :)
