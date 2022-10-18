@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+# CONTRIBUTORS Details
 
 > **|| Drop Your Name In this Formate |5|**
 >#### Name : XYZ
