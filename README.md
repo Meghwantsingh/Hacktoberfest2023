@@ -82,10 +82,15 @@ git push origin branch-name
 ##
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/hack.JPG" width="1000%">
 
-## Watch this video if you are a beginner
+## Watch below both the video if you are a beginner
+<p align="center">
+    <a href="https://youtu.be/yWFsiBdadmk">
+        <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/do.jpg" width="50%">
+    </a>
+  </p>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=pRow-Kc12rs">
-        <img src="https://i.imgur.com/7td0HiC.jpg" width="1000%">
+        <img src="https://i.imgur.com/7td0HiC.jpg" width="50%">
     </a>
   </p>
 
