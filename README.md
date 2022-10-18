@@ -1,7 +1,7 @@
 >Note : Any one can contribute i am busy so contribute I will check later ( those who are doing projects )
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/logo.PNG" width="1000%">
+        <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/logo.PNG" width="100%">
     </a>
 </p>
 
@@ -30,14 +30,19 @@ Here are 3 quick and painless ways to contribute to this project:
 - Put issue number in pull request so that we can get it quickly
 - Join our Youtube Channel [MyChannel](https://youtube.com/shorts/o5rAIdtxUYA?feature=share)
 - Follows us
+
   <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/contri.JPG" width="1000%">
 > Note : Don't Contribute Until Assigned ( Any one can contribute i am busy so contribute I will check later)
 <hr>
+
 ## New Stuff
+
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/new.JPG" width="1000%">
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/new2.JPG" width="1000%">
 <hr>
+
 ## Getting started
+
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -76,3 +81,13 @@ git push origin branch-name
 
 ##
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/hack.JPG" width="1000%">
+
+## Watch this video if you are a beginner
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=pRow-Kc12rs">
+        <img src="https://i.imgur.com/7td0HiC.jpg" width="1000%">
+    </a>
+  </p>
+
+- In the video you will learn to research which challenge suits your knowledge.
+- Good event and have fun :)
