@@ -28,9 +28,10 @@ Here are 3 quick and painless ways to contribute to this project:
 - Fork-Work-Pull and Also star the repo
 - Add your name to the `CONTRIBUTORS.md` file
 - Put issue number in pull request so that we can get it quickly
+- Join our Youtube Channel [MyChannel](https://youtube.com/shorts/o5rAIdtxUYA?feature=share)
 - Follows us
   <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/contri.JPG" width="1000%">
-> Note : Don't Contribute Until Assigned
+> Note : Don't Contribute Until Assigned ( Any one can contribute i am busy so contribute I will check later)
 <hr>
 ## New Stuff
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/new.JPG" width="1000%">
