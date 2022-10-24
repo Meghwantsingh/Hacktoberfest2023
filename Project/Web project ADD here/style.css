@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.5s ease;
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    max-width: 120rem;
+    font-style: normal;
+    cursor:default;
+}
+
+body{
+    background-color: #f0bda24f;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 111;
+    margin-top: 1rem;
+}
+
+li{
+    list-style: none;
+}
+
+
+.logo{
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.VPNcontainer{
+    background: #f0bda24f url(newImage.jpeg);
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+    position: relative;
+    background-blend-mode: multiply;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    padding-bottom: 15.6rem;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    margin-top: -4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: -1;
+}
+
+.VPNcontent{
+    margin-top: 17%;
+}
+
+.VPNcontent h1{
+    font-size: 5rem;
+}
+
+.VPNcontent h5{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+
+}
+
+.btn{
+    background: #f0bda2;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 1000;
+    cursor: pointer !important;
+}
+
+.VPNcontent h6{
+    margin-top: 2rem;
+
+}
+
+.VPNfeatureContainer1{
+    height: 100%;
+}
+
+.VPNfeature1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 80%;
+    border-radius: 20px;
+    margin-top: 4rem;
+    padding: 60px 20px !important;
+    box-shadow:
+    2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.VPNimage1{
+    width: 200px;
+}
+
+.VPNimage1 img{
+    width: 100%;
+    height: 100%;
+    filter: grayscale(5);
+}
+
+.VPNfeature1{
+    padding: 20px;
+}
+
+.VPNfeature1 .VPNcontent1{
+    width: 50vh;
+}
+
+.VPNcontent1 p{
+    margin-bottom: 2rem;
+}
+
+
+.VPNCardsContainer{
+    height: 100vh;
+    padding-top: 7rem;
+}
+
+
+
+.VPNCards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 5rem 1rem;
+}
+
+.VPNCardsContainer h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.VPNimage{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.VPNimage img{
+    width: 100%;
+    height: 100%;
+}
+
+.VPNcard{
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    box-shadow:
+    2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    100px 100px 80px rgba(0, 0, 0, 0.07);
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 1rem;
+    color: rgb(160, 158, 158);
+}
+
+.VPNcard:hover{
+    color: #000;
+    
+}
+
+.VPNcardContent{
+    padding-top: 7px;
+}
+
+
+footer {
+    background: rgb(30 30 30);
+    text-align: center;
+    color: #666;
+  
+  }
+  
+  .footer_btn {
+    background-color: #555 !important;
+    color: rgb(175, 174, 174) !important;
+  }
+  
+  .footer_btn:hover {
+    background-color: rgb(126, 126, 126) !important;
+    color: #fff !important;
+  }
+  
+  .footer_name h1 {
+    font-size: 19px;
+    color: #f0bda2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .footer_image {
+    width: 200px;
+    height: 200px;
+    display: none;
+  }
+  
+  .footer_image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    margin-top: -3rem;
+    display: none;
+  }
+  
+  .footer_name {
+    margin-bottom: 1rem;
+    padding-top: 49px;
+  }
+  
+  .footer_social_cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .social_image {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+  }
+  
+  .social_image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  
+  .avez_small_btn {
+    background: linear-gradient(90deg, #ffa84c, #fe8f16);
+    display: inline-block;
+    padding: 7px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .avez_small_btn:hover {
+    background: linear-gradient(90deg, #ff8400, #fe8f16);
+    cursor: pointer;
+    transform: scaleY(1.1);
+    font-size: bolder;
+  
+  
+  }
+  
+  .avez_social_name {
+    letter-spacing: 1px;
+  }
+  
+  .avez_rights {
+    padding: 2rem;
+  }
+  
+  .footer_avez_content {
+    line-height: 2rem;
+    font-weight: bold;
+  }
+  
+  .address {
+    padding-bottom: 1rem;
+  }
+
+  ::-webkit-scrollbar{
+    width: 10px;
+    background-color: #ffede3;
+
+  }
+
+  ::-webkit-scrollbar-thumb{
+    background-color: #ffbf9d;
+    border-radius: 10px;
+  }
