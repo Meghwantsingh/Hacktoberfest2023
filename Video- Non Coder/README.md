@@ -3,5 +3,5 @@
 <hr>
 # Provide your name and video link.<br>
 # This format follow <br>
-Name : XYZ
+Name : XYZ<br>
 Video link : abc...
