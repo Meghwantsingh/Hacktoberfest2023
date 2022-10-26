@@ -1,0 +1,112 @@
+## Printing the pattern 1 ##
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * *
+package com.javainterviewpoint;
+
+public class Pattern6
+{
+	public static void main(String[] args)
+	{
+		int rows = 5;
+		System.out.println("## Printing the pattern ##");
+		for (int i = 1; i <= rows; i++) 
+                { 
+                        for (int j = rows; j > i; j--)
+			{
+				System.out.print("  ");
+			}
+
+			for (int k = 1; k <= i; k++)
+			{
+				System.out.print("* ");
+			}
+			System.out.println();
+		}
+	}
+}
+## Printing the pattern 2 ##
+     A 
+    A B 
+   A B C 
+  A B C D 
+ A B C D E
+ package com.javainterviewpoint;
+
+public class Pattern9
+{
+	public static void main(String[] args)
+	{
+		int alphabet = 65;
+		int rows = 5;
+		System.out.println("## Printing the pattern ##");
+		for (int i = 1; i <= rows; i++) 
+                { 
+                        for (int j = rows; j >= i; j--)
+			{
+				System.out.print(" ");
+			}
+			for (int k = 1; k <= i; k++)
+			{
+				System.out.print((char) (alphabet + k - 1) + " ");
+			}
+			System.out.println();
+		}
+	}
+}
+## Printing the pattern 3 ##
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1
+package com.javainterviewpoint;
+
+public class Pattern14
+{
+	public static void main(String[] args)
+	{
+		int rows = 5;
+		System.out.println("## Printing the pattern ##");
+		for (int i = rows; i >= 1; i--)
+		{
+			for (int j = 1; j <= i; j++)
+			{
+				System.out.print(j + " ");
+			}
+			System.out.println();
+		}
+	}
+}
+## Printing the pattern 4  ##
+    1 
+   1 1 
+  1 2 1 
+ 1 3 3 1 
+1 4 6 4 1 
+package com.javainterviewpoint;
+
+public class Pattern22
+{
+	public static void main(String[] args)
+	{
+		int rows = 5;
+		System.out.println("## Printing the pattern ##");
+		for (int i = 1; i <= rows; i++) 
+               { 
+                        for (int j = rows; j > i; j--)
+			{
+				System.out.print(" ");
+			}
+			int temp = 1;
+			for (int k = 1; k <= i; k++)
+			{
+				System.out.print(temp + " ");
+				temp = temp * (i - k) / (k);
+			}
+			System.out.println();
+		}
+	}
+ }
